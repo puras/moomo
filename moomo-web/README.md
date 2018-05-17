@@ -1,4 +1,4 @@
-MM Mod Li
+MooMo
 ----
 
-* 用户与权限(mm-mod-li), Port: 5100
+加油，目标在前方!
